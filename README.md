@@ -7,4 +7,17 @@ A simple component library built with React and Tailwind CSS.
 To install the library, run:
 
 ```bash
-npm install github:yourusername/react-ui-library
+npm install github:Martand03/react-ui-library
+```
+# Usage
+To use the Button component:
+
+```javascript
+import { Button } from 'react-ui-library';
+
+function App() {
+  return <Button variant="primary" size="md">Click Me</Button>;
+}
+```
+# Contributing
+Feel free to fork and submit pull requests. Contributions are welcome!
