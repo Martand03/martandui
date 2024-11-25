@@ -7,7 +7,7 @@ A simple component library built with React and Tailwind CSS.
 To install the library, run:
 
 ```bash
-npm install github:Martand03/react-ui-library
+npm install github:Martand03/martandui
 ```
 # Usage
 To use the Button component:
