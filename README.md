@@ -13,7 +13,7 @@ npm install github:Martand03/martandui
 To use the Button component:
 
 ```javascript
-import { Button } from 'react-ui-library';
+import { Button } from 'martandui';
 
 function App() {
   return <Button variant="primary" size="md">Click Me</Button>;
